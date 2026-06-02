@@ -69,6 +69,35 @@ ArifVS-clone/
 
 ---
 
+---
+
+## 📈 Advantages
+
+- Enables real-time traffic monitoring and congestion prediction.
+- Reduces traffic congestion through intelligent signal optimization.
+- Preserves data privacy by avoiding the transfer of raw traffic data.
+- Minimizes network bandwidth usage through federated learning.
+- Provides low-latency decision-making using edge computing.
+- Offers a scalable solution for smart city traffic management.
+  
+---
+
+---
+
+## 🔮 Future Enhancements
+
+- Integration with real-world IoT-enabled traffic cameras and sensors.
+- Deployment on cloud and edge hybrid infrastructures.
+- Emergency vehicle detection and priority-based signal control.
+- Multi-intersection traffic coordination and optimization.
+- Advanced federated learning algorithms for improved model performance.
+- Large-scale implementation across smart city transportation networks.
+  
+---
+
+---
+
+
 ## 👨‍💻 Author
 
 **Final Year Project** — Alliance University  
